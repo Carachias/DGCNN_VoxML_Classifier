@@ -1,0 +1,10 @@
+classes:
+
+['23', '35', '22', '33', '2', '30', '14', '1', '8', '12']
+
+
+
+max_perf:
+
+Train 48, loss: 1.340403, train acc: 0.972356, train avg acc: 0.972351
+Test 48, loss: 1.438663, test acc: 0.925110, test avg acc: 0.923349
