@@ -1,3 +1,5 @@
+# Below are the original DGCNN instructions. For modified / VoxML specific commands see the given Colb Document.
+
 # Dynamic Graph CNN for Learning on Point Clouds (PyTorch)
 
 ## Point Cloud Classification
