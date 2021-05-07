@@ -1,4 +1,4 @@
-# Below are the original DGCNN instructions. For modified / VoxML specific commands see the given Colb Document.
+# Below are the original DGCNN instructions. For modified / VoxML specific commands see the given Colab Document.
 
 # Dynamic Graph CNN for Learning on Point Clouds (PyTorch)
 
